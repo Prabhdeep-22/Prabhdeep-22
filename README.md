@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm <Your Full Name>
-
 🎯 Data Science Aspirant | Machine Learning Engineer in Progress  
 📍 Based in <City, Country>  
 📫 <your.email@example.com>  
