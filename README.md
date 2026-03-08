@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Prabhdeep Singh  👋
 
 🎯 Data Science Aspirant | Machine Learning Engineer in Progress  
 📍 Based in <City, Country>  
