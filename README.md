@@ -1,8 +1,8 @@
 ## Hi, I'm Prabhdeep Singh  👋
 
 🎯 Data Science Aspirant | Machine Learning Engineer in Progress  
-📍 Based in <City, Country>  
-📫 <your.email@example.com>  
+📍 Based in <Delhi, India>  
+📫 <Prabhdeepsingh2291@gmail.com>  
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) • [Kaggle](https://kaggle.com/yourprofile)
 
 ---
