@@ -142,8 +142,8 @@ I believe in **learning by building projects**, experimenting with datasets, and
 
 # 📫 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/yourprofile
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💼 LinkedIn: www.linkedin.com/in/prabhdeep-singh-a3a4461b6
+📧 Email: [your-email@example.com](prabhdeepsingh2291@gmail.com)
 💻 GitHub: https://github.com/yourusername
 
 ---
