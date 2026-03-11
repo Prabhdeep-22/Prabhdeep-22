@@ -1,126 +1,151 @@
-## Hi, I'm Prabhdeep Singh  👋
+# 👋 Hi, I'm Prabhdeep Singh
 
-🎯 Data Science Aspirant | Machine Learning Engineer in Progress  
-📍 Based in <Delhi, India>  
-📫 <Prabhdeepsingh2291@gmail.com>  
-🔗 [LinkedIn](www.linkedin.com/in/prabhdeep-singh-a3a4461b6) • [Portfolio](https://yourportfolio.com) • [Kaggle](https://kaggle.com/yourprofile)
+🚀 **Aspiring Data Scientist | Python | Machine Learning | Data Analysis**
 
----
-
-## 🚀 About Me
-
-```python
-class DataScienceProfile:
-    def __init__(self):
-        self.name = "<Your Name>"
-        self.role = "Data Science Learner"
-        self.focus = ["Machine Learning", "Deep Learning", "Statistics"]
-        self.current_learning = "Generative AI & MLOps"
-        self.goal = "Build scalable AI systems"
-
-    def mission(self):
-        return "Transforming data into actionable intelligence."
-```
-
-- 📊 Strong foundation in Statistics & Probability  
-- 🤖 Building end-to-end ML pipelines  
-- 📚 Actively learning advanced ML & deployment  
-- 🧠 Interested in AI research & real-world systems  
+Welcome to my GitHub profile! I am passionate about turning **data into meaningful insights** and building **machine learning solutions** that solve real-world problems.
 
 ---
 
-## 🛠 Tech Stack
+# 👨‍💻 About Me
 
-### 👨‍💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+* 🎓 Bachelor of Commerce — Delhi University
+* 💼 5+ Years Experience in **US Healthcare RCM**
+* 📊 Currently transitioning into **Data Science & Machine Learning**
+* 🧠 Learning **Python, SQL, Machine Learning, NLP, and Deep Learning**
+* 📍 Delhi, India
 
-### 📊 Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
-
-### 🤖 Deep Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-### 📈 Visualization
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-5A9?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+I believe in **learning by building projects**, experimenting with datasets, and continuously improving my analytical skills.
 
 ---
 
-## 📌 Featured Projects
+# 🧰 Tech Stack
 
-### 🔍 Customer Churn Prediction
-- Built ML classification model to predict churn
-- Feature engineering + model tuning
-- Achieved XX% ROC-AUC  
-**Tech:** Python, XGBoost, Pandas
+## 👨‍💻 Programming
 
----
-
-### 🧠 Sentiment Analysis (NLP)
-- Text preprocessing pipeline  
-- Transformer-based classification  
-- Fine-tuned BERT  
-**Tech:** PyTorch, HuggingFace
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
 
 ---
 
-### 📈 Time Series Forecasting
-- Built LSTM model for forecasting  
-- Hyperparameter tuning  
-- Performance comparison vs ARIMA  
-**Tech:** TensorFlow, Keras
+## 📊 Data Analysis
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 Data Visualization
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📚 Currently Learning
-
-- Advanced Machine Learning  
-- Generative AI  
-- Model Deployment (Docker, FastAPI)  
-- MLOps fundamentals  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-9cf?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge\&logo=tableau)
 
 ---
 
-## 🎯 2026 Goals
+## 🤖 Machine Learning
 
-- 🚀 Build 10 end-to-end ML projects  
-- 📖 Publish technical blogs  
-- 🏆 Participate in Kaggle competitions  
-- 🤝 Contribute to open source  
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge\&logo=scikit-learn)
 
 ---
 
-## 📈 Contribution Snake (Optional)
+## 🧠 Deep Learning
 
-Add this if you generate the snake animation:
-
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
 
 ---
 
-## 👀 Profile Views
+## 📊 Statistics
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
+* Probability
+* Hypothesis Testing
+* Descriptive Statistics
+* Inferential Statistics
+* Statistical Data Analysis
 
 ---
 
-## 🤝 Let’s Connect
+## 🧠 NLP
 
-If you’re working on AI / ML / Data projects, feel free to collaborate.
+* NLTK
+* TF-IDF Vectorizer
+* Text Classification
 
-⭐ Star repositories you find interesting.
+---
+
+## 🗄 Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## 🛠 Tools
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
+
+---
+
+# 📂 Featured Projects
+
+## 📈 Exploratory Data Analysis
+
+* Data Cleaning
+* Handling Missing Values
+* Outlier Detection
+* Data Visualization
+
+## 🤖 Machine Learning Models
+
+* Logistic Regression
+* Decision Tree
+* Random Forest
+* Model Evaluation
+
+## 🧠 NLP Projects
+
+* Text Preprocessing
+* TF-IDF Vectorization
+* Text Classification
+
+---
+
+# 📚 Currently Learning
+
+* Deep Learning
+* Natural Language Processing
+* Feature Engineering
+* Model Deployment
+* Advanced Machine Learning
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
+
+---
+
+# 🎯 Goals for 2026
+
+✔ Build strong Data Science portfolio
+✔ Work on real-world datasets
+✔ Participate in Kaggle competitions
+✔ Contribute to open-source projects
+✔ Become a **Professional Data Scientist**
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn: https://linkedin.com/in/yourprofile
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+💻 GitHub: https://github.com/yourusername
+
+---
+
+⭐ If you like my work, consider giving my repositories a **star**!
