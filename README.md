@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I am passionate about turning **data into meaningf
 # 👨‍💻 About Me
 
 * 🎓 Bachelor of Commerce — Delhi University
-* 💼 5+ Years Experience in **US Healthcare RCM**
+* 💼 5 Years Experience in **US Healthcare RCM**
 * 📊 Currently transitioning into **Data Science & Machine Learning**
 * 🧠 Learning **Python, SQL, Machine Learning, NLP, and Deep Learning**
 * 📍 Delhi, India
@@ -82,9 +82,7 @@ I believe in **learning by building projects**, experimenting with datasets, and
 ## 🛠 Tools
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge\&logo=visual-studio-code)
 
 ---
 
@@ -119,14 +117,6 @@ I believe in **learning by building projects**, experimenting with datasets, and
 * Feature Engineering
 * Model Deployment
 * Advanced Machine Learning
-
----
-
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername\&show_icons=true\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername\&layout=compact\&theme=tokyonight)
 
 ---
 
