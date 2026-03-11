@@ -3,7 +3,7 @@
 🎯 Data Science Aspirant | Machine Learning Engineer in Progress  
 📍 Based in <Delhi, India>  
 📫 <Prabhdeepsingh2291@gmail.com>  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) • [Portfolio](https://yourportfolio.com) • [Kaggle](https://kaggle.com/yourprofile)
+🔗 [LinkedIn](www.linkedin.com/in/prabhdeep-singh-a3a4461b6) • [Portfolio](https://yourportfolio.com) • [Kaggle](https://kaggle.com/yourprofile)
 
 ---
 
